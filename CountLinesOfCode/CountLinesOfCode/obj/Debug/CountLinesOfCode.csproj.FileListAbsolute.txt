@@ -1,0 +1,11 @@
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\bin\Debug\CountLinesOfCode.exe.config
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\bin\Debug\CountLinesOfCode.exe
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\bin\Debug\CountLinesOfCode.pdb
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.csproj.AssemblyReference.cache
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.csproj.SuggestedBindingRedirects.cache
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.Properties.Resources.resources
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.csproj.GenerateResource.cache
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.csproj.CoreCompileInputs.cache
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.exe
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.pdb
+F:\HỌC KÌ 2 NĂM 3\Thầy Mận\LinesOfCode\CountLinesOfCode\CountLinesOfCode\obj\Debug\CountLinesOfCode.formTool.resources
